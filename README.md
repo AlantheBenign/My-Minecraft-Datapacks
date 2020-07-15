@@ -17,7 +17,9 @@ In a 100x100 blocks area, the players need to survive a different threat:
 
 The lava is rising every 18 seconds, since layer 0 to layer 256, every AIR block is replaced for a LAVA block!
 
-Download the following file: RISING_LAVA
+Download the following file:
+RISING_LAVA.rar
+https://github.com/AlantheBenign/My-Minecraft-Datapacks/blob/master/RISING_LAVA.rar
 
 #### My Video (in Portuguese):
 https://www.youtube.com/watch?v=HnNAy4kAZcI&t=267s
