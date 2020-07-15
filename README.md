@@ -1,5 +1,6 @@
 # My Minecraft Datapacks
 It's a repository where I store my Minecraft Datapacks.
+
 The instructions to how to use the datapack are always on datapack's folder.
 
 ## Discussions on my Reddit Post:
