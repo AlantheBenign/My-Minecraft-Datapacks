@@ -5,8 +5,7 @@ It's a repository where I store my Minecraft Datapacks
 
 #### Rising Lava;
 
-
-### Rising Lava
+## Rising Lava:
 
 #### Concept:
 In a 100x100 blocks area, the players need to survive a different threat. The lava is rising every 18 seconds. Since layer 0 to layer 256. Every AIR block is replaced for a LAVA block!
